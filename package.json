@@ -1,0 +1,1 @@
+{"description":"Funniest AI Agent Mishap: GTA 6 Launch Week — one sentence, at most 240 characters, written to /output/entry.txt","engines":{"node":">=22"},"license":"MIT","name":"gta6-agent-mishap","private":true,"scripts":{"start":"node src/main.mjs","test":"node test/verify.mjs"},"type":"module","version":"1.0.0"}
